@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654011356 source:c:\users\ibars\desktop\projelerim\yilan oyunu projesi\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<stdlib.h>
+
